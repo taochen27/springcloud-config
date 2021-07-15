@@ -1,1 +1,2 @@
-welcome to the config-dev version=3
+config:
+  info: "welcome to the config-dev version=3"
